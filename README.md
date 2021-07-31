@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Dylan Poyser and I'm an actor/musician turned full stack software engineer!  
+
+🔭 I'm currently working on a few music-related app ideas, including one to aid in songwriting.
+
+😄 My pronouns are He/His!
+
+⚡ Fun fact: I have a deep and abiding love for languages and cultures, and my goal is to learn basic greetings in every language I can!
+
 <!--
 **dylanpoyser/dylanpoyser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
